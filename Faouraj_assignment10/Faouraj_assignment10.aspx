@@ -1,4 +1,17 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Faouraj_assignment10.aspx.cs" Inherits="Faouraj_assignment10.Faouraj_assignment10" %>
+﻿<!-- 
+ File Name: Faouraj_assignment10.aspx
+ Name: Ayah Faour
+ Email: Faouraj@uc.mail.edu
+ Assignment Number: Assignment 10
+ Due Date: 04/10/2025
+ Course #/Section: IS3050-002
+ Semester/Year: Spring 2025
+ Brief Description of the assignment: Convert an HTML page into ASP.NET Web Forms using Web Controls and server-side features.
+ Brief Description of what this module does: Develop a functional .aspx page with images, links, tables, and formatted content.
+ Anything else that's relevant: N/A
+ Citations: https://travel.usnews.com/rankings/best-places-to-visit-in-spain/
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Faouraj_assignment10.aspx.cs" Inherits="Faouraj_assignment10.Faouraj_assignment10" %>
 
 <!DOCTYPE html>
 
